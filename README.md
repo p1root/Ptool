@@ -3,6 +3,6 @@
 
 Installing
 
-git clone https://github.com/mrprogrammer2938/PTool
+git clone https://github.com/p1root/Ptool
 
 cd PTool
